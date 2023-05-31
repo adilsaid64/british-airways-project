@@ -21,7 +21,7 @@ First data was scrapped from [airline quality](https://www.airlinequality.com/ai
 The next stages inovled cleaning the data and checking for missing values. 
 
 
-## Exploratory Data Analysis**
+## Exploratory Data Analysis
 
 
 **How has overall customer ratings for British Airways evolved over time?**

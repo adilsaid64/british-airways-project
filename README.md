@@ -2,7 +2,7 @@
 
 Currently still working on it.
 
-This project was part of a virtual experience program at (British Airways)[https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=Zca4MBFp2EyABm3Co].
+This project was part of a virtual experience program at [British Airways](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=Zca4MBFp2EyABm3Co).
 
 **Task 1:**
 

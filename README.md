@@ -27,3 +27,5 @@ The next stages inovled cleaning the data and checking for missing values.
 **How has overall customer ratings for British Airways evolved over time?**
 
 ![Alt Text](1.png)
+
+- Overall, the analysis of the time series data reveals a clear and consistent decreasing trend in the overall rating from customers over the period of 2015 to 2023. 

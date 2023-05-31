@@ -26,3 +26,4 @@ The next stages inovled cleaning the data and checking for missing values.
 
 **How has overall customer ratings for British Airways evolved over time?**
 
+![Alt Text](1.png)

@@ -36,3 +36,25 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 **Distribution of review ratings for British Airways**
 
 ![Alt Text](2.png)
+
+**Length of reviews per travel class**
+
+![Alt Text](3.png)
+
+**Overall rating given per travel class**
+
+![Alt Text](4.png)
+
+**Average overall rating per travel class**
+
+![Alt Text](5.png)
+
+**How many customers would recommend British Airways?**
+
+![Alt Text](6.png)
+
+**Word Cloud. What are the most frequent words?**
+
+![Alt Text](7.png)
+
+

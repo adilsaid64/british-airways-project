@@ -72,15 +72,14 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 
 ![Alt Text](11.png)
 
+![Alt Text](12.png)
+
+
 | Metric    | Value   |
 |-----------|---------|
 | Accuracy  | 0.846   |
 | Precision | 0.483   |
 | Recall    | 0.123   |
 | F1-score  | 0.197   |
-
-
-![Alt Text](12.png)
-
 
 

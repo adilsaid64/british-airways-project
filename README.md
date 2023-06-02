@@ -63,3 +63,24 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 
 ## Exploratory Data Analysis
 
+
+![Alt Text](8.png)
+
+![Alt Text](9.png)
+
+![Alt Text](10.png)
+
+![Alt Text](11.png)
+
+| Metric    | Value   |
+|-----------|---------|
+| Accuracy  | 0.846   |
+| Precision | 0.483   |
+| Recall    | 0.123   |
+| F1-score  | 0.197   |
+
+
+![Alt Text](12.png)
+
+
+

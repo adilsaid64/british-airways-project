@@ -31,6 +31,7 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 **Observation**
 
 - After decomposing the time series additively, we see a clear and consistent decreasing trend in the overall rating from customers over the period of 2015 to 2023. 
+- The residuals are centered around 0, which supports the use of an additive model.
 - The noise observed from mid-2020 to mid-2021 in the residuals may be attributed to the linear interpolation used to fill in the missing values during that period.
 
 **Distribution of review ratings for British Airways**

@@ -51,7 +51,7 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 ![Alt Text](5.png)
 
 **Observation**
-- 
+
 
 **How many customers would recommend British Airways?**
 

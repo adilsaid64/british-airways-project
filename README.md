@@ -38,19 +38,32 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 
 ![Alt Text](2.png)
 
+**Observation**
+- Looking at the distribution for overall rating, we see that most people give a rating of 1. Other than that, there does not seem to be any difference between the other ratings.
+- We see that most guests are not satisfied with the WiFi service.
+- The staff service receives high ratings, with most people giving 4 and 5 stars.
+- There seems to be a uniform distribution of seating comfort.
+- Most people are writing between 500 to 1000 words per review.
+
 **Length of reviews per travel class**
 
 ![Alt Text](3.png)
+
+**Observation**
+- We see, there does seem to be an unbalanced dataset. There are alot more people that traveled Economy and Business in this dataset. The distributions follow the same shape between different travel classes.
 
 **Overall rating given per travel class**
 
 ![Alt Text](4.png)
 
+**Observation**
+- For the customers that travelled Economy, 
+
+
 **Average overall rating per travel class**
 
 ![Alt Text](5.png)
 
-**Observation**
 
 
 **How many customers would recommend British Airways?**

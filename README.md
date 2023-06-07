@@ -56,9 +56,6 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 
 ![Alt Text](4.png)
 
-**Observation**
-- For the customers that travelled Economy, 
-
 
 **Average overall rating per travel class**
 

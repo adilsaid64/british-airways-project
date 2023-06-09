@@ -90,6 +90,7 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 
 ![Alt Text](12.png)
 
+**Peformance Metrics**
 
 | Metric    | Value   |
 |-----------|---------|
@@ -98,4 +99,5 @@ The next stages inovled cleaning the data and checking for missing values. Futhe
 | Recall    | 0.123   |
 | F1-score  | 0.197   |
 
+The model has a high accuracy however a low precision and recall. So more work can be done to improve it.
 
